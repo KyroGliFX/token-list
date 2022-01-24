@@ -87025,7 +87025,7 @@
       "address": "9pPoKimqEa5PSnnNU9GK5kC3ExQV4LxbbHER949yCU7F",
       "symbol": "KYRO",
       "name": "KyroGliFX",
-      "decimals": 0,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/KyroGliFX/Crypto/main/Logo.png",
       "tags": [
         "social-token"
